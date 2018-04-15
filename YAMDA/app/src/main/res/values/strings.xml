@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YAMDA</string>
+    <string name="searchText">Search…</string>
+    <string name="posterButton">Poster</string>
+    <string name="premiereButton">Upcoming</string>
+    <string name="popularButton">Popular</string>
+    <string name="language">en-US</string>
+    <string name="titleTxt">Overview :</string>
+    <string name="moviesLists">Lists of movies:</string>
+    <string name="noConnectivityText">To access YAMDA app you need an internet connection.</string>
+    <string name="progress_bar_text">Loading data…</string>
+    <string name="profileTitle">Authors :</string>
+    <string name="releaseDateTxt">Date :</string>
+    <string name="preferencesTxt">Preferences</string>
+    <string name="aboutUs">About us</string>
+    <string name="notificationsSettings">Notifications On</string>
+    <string name="any">Any</string>
+    <string name="network">Network:</string>
+    <string name="battery">Battery</string>
+    <string name="update">Update every  :</string>
+    <string name="updateButton">Ok</string>
+    <string name="updateTimeBox">time</string>
+    <string name="refreshTxt">Refresh</string>
+</resources>

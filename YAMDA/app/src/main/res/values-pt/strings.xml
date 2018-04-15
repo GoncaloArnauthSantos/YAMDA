@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YAMDA</string>
+    <string name="searchText">Pesquisa…</string>
+    <string name="posterButton">Cartaz</string>
+    <string name="premiereButton">Brevemente</string>
+    <string name="popularButton">Populares</string>
+    <string name="language">pt-PT</string>
+    <string name="titleTxt">Resumo :</string>
+    <string name="moviesLists">Listas de filmes:</string>
+    <string name="noConnectivityText">Para aceder à app YAMDA necessita de uma ligação à internet.</string>
+    <string name="progress_bar_text">A carregar dados…</string>
+    <string name="profileTitle">Autores :</string>
+    <string name="releaseDateTxt">Data  :</string>
+    <string name="preferencesTxt">Preferencias</string>
+    <string name="aboutUs">Sobre nós</string>
+    <string name="notificationsSettings">Notificações ligadas</string>
+    <string name="any">Outro</string>
+    <string name="network">Rede:</string>
+    <string name="battery">Bateria</string>
+    <string name="update">Actualização em :</string>
+    <string name="updateButton">Ok</string>
+    <string name="updateTimeBox">tempo</string>
+    <string name="refreshTxt">Actualizar</string>
+</resources>
